@@ -16,8 +16,12 @@
 
 <br>
 
+<a href="YOUR_STREAMLIT_APP_URL">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20FORESIGHT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
 <a href="https://github.com/Geethapriyan103-hub/foresight-demand-intelligence">
-  <img src="https://img.shields.io/badge/GitHub-FORESIGHT-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -139,6 +143,26 @@ and support SKU-level forecasting.
 
 ---
 
+<h2>🎨 Dashboard Experience</h2>
+
+<table>
+<tr>
+<td align="center">🎨<br><b>Colorful UI</b></td>
+<td align="center">🧊<br><b>Glassmorphism</b></td>
+<td align="center">📊<br><b>Interactive Charts</b></td>
+<td align="center">🧭<br><b>Smart Navigation</b></td>
+</tr>
+
+<tr>
+<td align="center">🔮<br><b>Forecasting</b></td>
+<td align="center">🚨<br><b>Risk Center</b></td>
+<td align="center">🔍<br><b>SKU Explorer</b></td>
+<td align="center">➕<br><b>New Data</b></td>
+</tr>
+</table>
+
+---
+
 <h2>🏗️ Architecture</h2>
 
 <div align="center">
@@ -182,110 +206,6 @@ and support SKU-level forecasting.
 </pre>
 
 </div>
-
----
-
-<h2>🎨 Dashboard Experience</h2>
-
-<table>
-<tr>
-<td align="center">🎨<br><b>Colorful UI</b></td>
-<td align="center">🧊<br><b>Glassmorphism</b></td>
-<td align="center">📊<br><b>Interactive Charts</b></td>
-<td align="center">🧭<br><b>Smart Navigation</b></td>
-</tr>
-
-<tr>
-<td align="center">🔮<br><b>Forecasting</b></td>
-<td align="center">🚨<br><b>Risk Center</b></td>
-<td align="center">🔍<br><b>SKU Explorer</b></td>
-<td align="center">➕<br><b>New Data</b></td>
-</tr>
-</table>
-
----
-
-<h2>🛠️ Technology Stack</h2>
-
-<table>
-<tr>
-<th>Technology</th>
-<th>Role</th>
-</tr>
-
-<tr>
-<td>🐍 Python</td>
-<td>Core development and ML</td>
-</tr>
-
-<tr>
-<td>🎈 Streamlit</td>
-<td>Interactive web dashboard</td>
-</tr>
-
-<tr>
-<td>🐼 Pandas</td>
-<td>Data processing</td>
-</tr>
-
-<tr>
-<td>🔢 NumPy</td>
-<td>Numerical computation</td>
-</tr>
-
-<tr>
-<td>📊 Plotly</td>
-<td>Interactive visualizations</td>
-</tr>
-
-<tr>
-<td>🚀 XGBoost</td>
-<td>Demand forecasting</td>
-</tr>
-
-<tr>
-<td>💡 LightGBM</td>
-<td>Demand forecasting</td>
-</tr>
-
-<tr>
-<td>🧪 Scikit-learn</td>
-<td>Machine learning utilities</td>
-</tr>
-
-</table>
-
----
-
-<h2>📂 Project Structure</h2>
-
-<pre>
-foresight-demand-intelligence/
-│
-├── app.py
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   ├── processed/
-│   │   ├── inventory_clean.csv
-│   │   ├── sales_daily_clean.csv
-│   │   ├── sku_master_clean.csv
-│   │   ├── promotions_clean.csv
-│   │   └── data_quality_report.csv
-│   │
-│   └── raw/
-│
-├── models/
-│   ├── xgboost_demand_model.pkl
-│   ├── lightgbm_demand_model.pkl
-│   ├── model_features.pkl
-│   ├── sku_mapping.csv
-│   └── rolling_origin_predictions.csv
-│
-└── src/
-    └── FORESIGHT_Data_Cleaning.ipynb
-</pre>
 
 ---
 
@@ -377,6 +297,14 @@ The project can be connected directly to GitHub and deployed through
 Streamlit Community Cloud.
 </p>
 
+<div align="center">
+
+<a href="YOUR_STREAMLIT_APP_URL">
+  <img src="https://img.shields.io/badge/🚀%20OPEN%20FORESIGHT%20LIVE-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+</div>
+
 ---
 
 <h2>🎯 Objectives</h2>
@@ -384,7 +312,7 @@ Streamlit Community Cloud.
 <ul>
 <li>📉 Reduce stockout risk</li>
 <li>📦 Identify excess inventory</li>
-<li>🔮 Forecast future SKU demand</li>
+<li>🔮 Forecast SKU-level demand</li>
 <li>🎯 Improve replenishment planning</li>
 <li>💰 Support inventory cost optimization</li>
 <li>📊 Convert raw business data into actionable intelligence</li>
@@ -469,6 +397,12 @@ Data Science, Predictive Analytics and Business Intelligence.
 <h3>See the demand before it becomes a problem.</h3>
 
 <br>
+
+<a href="https://foresight-demand-intelligence-fsd3fmmy2afbft7owk66ix.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20LAUNCH%20FORESIGHT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+<br><br>
 
 ⭐ <b>If you like this project, consider starring the repository.</b> ⭐
 
