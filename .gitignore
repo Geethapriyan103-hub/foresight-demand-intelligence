@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+zidiozip.zip
+
+data/raw/
+data/processed/sales_transaction.csv
+data/processed/analysis_ready_daily.csv
+data/processed/sales_daily_clean.csv
