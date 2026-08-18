@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="[YOUR_STREAMLIT_APP_URL](https://foresight-demand-intelligence-fsd3fmmy2afbft7owk66ix.streamlit.app/)">
+<a href="[(https://foresight-demand-intelligence-fsd3fmmy2afbft7owk66ix.streamlit.app/)](https://foresight-demand-intelligence-fsd3fmmy2afbft7owk66ix.streamlit.app/)">
   <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20FORESIGHT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 
